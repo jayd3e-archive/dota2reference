@@ -15,7 +15,7 @@ requires = ['pyramid',
             'pyramid_debugtoolbar',
             'sqlalchemy',
             'mako',
-	    'psycopg2']
+        'psycopg2']
 
 setup(name='D2Ref',
       version='0.1dev',
